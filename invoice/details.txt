@@ -1,0 +1,28 @@
+All commands:
+PS E:\InvoiceApp>
+
+git status
+git config --global user.email
+git config --global user.name
+ls
+git remote -v
+
+npx create-next-app@latest
+
+if half download packages
+remove all:
+Remove-Item -Recurse -Force .\generate-invoice
+npm cache clean --force
+
+npx shadcn@latest init
+npx shadcn@latest add button
+
+To change port: npx next dev -p 8000
+
+npm install next-auth@beta
+npx auth secret
+npm install @auth/mongodb-adapter mongodb
+
+Components:
+https://ui.shadcn.com/
+https://authjs.dev/
