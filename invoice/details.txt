@@ -26,3 +26,7 @@ npm install @auth/mongodb-adapter mongodb
 Components:
 https://ui.shadcn.com/
 https://authjs.dev/
+
+https://github.com/IsAmitprajapati/AmitInvoice/blob/main/src/app/(auth)/verify-email/page.tsx
+https://resend.com/docs/send-with-nextjs
+https://resend.com/api-keys
